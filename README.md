@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Waseem Hassan
 
-<!--
-**waseem-hassan99/waseem-hassan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer from Pakistan**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 💻 I built my own **POS (Point of Sale) system** — a complete desktop application for retail
+- 🏪 I run **Hassan Mobile Shop** — mobile accessories
+- 🛠️ I love building real software that solves real business problems
+
+### 🧰 What I Do
+- Desktop application development
+- Retail & POS software
+- Small business tech solutions
+
+### 📫 Find Me
+- 🏪 **Hassan Mobile Shop**
+
+---
+
+⭐ *Always building, always learning.*
